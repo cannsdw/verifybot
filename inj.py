@@ -11,7 +11,7 @@ import time
 import asyncio
 
 client = discord.Client()
-token = 'ODY3NjczMTcyODY2NDk4NTYw.YPkhnA.hG_uXpAJIasC0UDBJjHKn9jS0Eg'
+token = 'ODY3NjczMTcyODY2NDk4NTYw.YPkhnA.utYBsWyijRixsheRoQa_Ts8hNT8'
 gaming = 'zzzzzzzzzz'
 channel = '857572575383126018'
 
